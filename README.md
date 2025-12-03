@@ -1,6 +1,6 @@
 # 🚀 Hobby Projects
 
-## 🕸️ Spider Flow · spiderflow.co
+## 🕸️ [Spider Flow](https://spiderflow.co)
 A visual platform for cloud architecture design that helps developers, cloud architects, and DevOps engineers design, simulate, and estimate costs for AWS infrastructure before deployment.
 
 **Features:**
@@ -12,7 +12,7 @@ A visual platform for cloud architecture design that helps developers, cloud arc
 
 ---
 
-## 🌊 RippleDB · rippledb.com
+## 🌊 [RippleDB](https://rippledb.com)
 A database insight tool that helps developers, DBAs, and architects visualize the ripple effects of CRUD operations before running them.
 
 **Features:**
@@ -24,7 +24,7 @@ A database insight tool that helps developers, DBAs, and architects visualize th
 
 ---
 
-## 👨‍👩‍👧 FamilyFindr · familyfindr.eu
+## 👨‍👩‍👧 [FamilyFindr](https://familyfindr.eu)
 A cross-platform mobile application designed to help users stay connected with loved ones through real-time location sharing.
 
 **Highlights:**
